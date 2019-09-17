@@ -1,0 +1,1 @@
+- Build: `rustc ./hello-world.rs`
